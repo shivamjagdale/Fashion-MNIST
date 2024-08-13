@@ -12,3 +12,6 @@ Now here we have 2 folders app and Fashion_Model_Notebook.
 App contains all the files you need for PyCharm. We will work with PyCharm here and Fashion_Model_Notebook is our original notebook. 
 Inside app we have our trained_fashion_mnist_model.h5 which is what we wil need. 
 Have all these files loaded on Pycharm as is, h5 model should be inside the trained_model folder cause I wrote down the path inside the code. 
+
+After its all done your website must look like this :- 
+Annotation 2024-08-13 003736.png
