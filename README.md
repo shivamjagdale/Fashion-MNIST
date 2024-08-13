@@ -1,10 +1,10 @@
 # Fashion-MNIST
 Fashion MNIST
-# Here we are working with Fashion Image Classification (CNN)
+Here we are working with Fashion Image Classification (CNN)
 
-# This dataset contains different class of images belonging to fashion such as Tshirt, tops, ankleboots etc.
+This dataset contains different class of images belonging to fashion such as Tshirt, tops, ankleboots etc.
 
-# We will try to build a streamlit web app and when we give it an image it should predict weather what that object is.
+We will try to build a streamlit web app and when we give it an image it should predict weather what that object is.
 
 How to make this work on your workstation/laptop :-
 Now here we have 2 folders app and Fashion_Model_Notebook. 
